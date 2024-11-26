@@ -8,8 +8,8 @@ body {
   font-family: 'Arial', sans-serif;
 }
 
-h1, h2, h5 [
-color: var(--cor-secundária);
+h1, h2, h5 {
+color: var(--cor-secundaria);
 font-weight: 700;
 }
 
