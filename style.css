@@ -1,6 +1,6 @@
 :root {
   --cor-principal: #6E859F;
-  --cor-secundária: #284260;
+  --cor-secundaria: #284260;
   --cor-destaque: #c92bfc;
 }
 
@@ -17,6 +17,6 @@ footer a {
   color: var(--cor-principal);
 }
 
-footer a:hover {
+footer a: hover {
   color: var(--cor-destaque);
 }
